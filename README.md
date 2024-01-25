@@ -52,6 +52,9 @@ space + e = open explorer
 G = help to file
 U = to undo
 CTRL + R = to redo
+space + F = Get Files
+/ = to search into the archive
+C + I = to change into anything
 
 
 General Mappings
